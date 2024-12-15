@@ -34,12 +34,6 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Instagram",
-    href: "https://www.instagram.com/nicklasbekkevold/",
-    linkTitle: `${SITE.author} on Instagram`,
-    active: true,
-  },
-  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/nicklasbekkevold/",
     linkTitle: `${SITE.author} on LinkedIn`,
@@ -49,6 +43,12 @@ export const SOCIALS: SocialObjects = [
     name: "ORCID",
     href: "https://orcid.org/0009-0004-1437-1109/",
     linkTitle: `${SITE.author}'s ORCID record`,
+    active: true,
+  },
+  {
+    name: "rss",
+    href: "/rss.xml",
+    linkTitle: `${SITE.title} as an RSS feed`,
     active: true,
   },
 ];
