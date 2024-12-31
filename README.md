@@ -31,7 +31,7 @@ Based on [@satnaing](https://github.com/satnaing)'s theme [AstroPaper](https://g
 └── package.json
 ```
 
-All blog posts are stored in `src/content/blog` directory.
+All blog posts are stored in `src/data/blog` directory.
 
 ## 💻 Tech Stack
 
