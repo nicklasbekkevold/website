@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://nicklasbekkevold.com/",
   author: "Nicklas Bekkevold",
   profile: "https://nicklasbekkevold.com/",
-  desc: "Personal website, blog, portfolio, playground, ... whatever.",
+  desc: "Independent internet magazine featuring thoughts and reflections at the intersection of science, technology, and society.",
   title: "nicklasbekkevold.com",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -15,8 +15,8 @@ export const SITE: Site = {
 };
 
 export const LOCALE = {
-  lang: "en", // html lang code. Set this empty and default will be "en"
-  langTag: ["en-EN"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  lang: "en",
+  langTag: ["en-EN"], // BCP 47 Language Tags
 } as const;
 
 export const LOGO_IMAGE = {
