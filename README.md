@@ -1,10 +1,10 @@
 # Website
 
-Based on [@satnaing](https://github.com/satnaing)'s theme [AstroPaper](https://github.com/satnaing/astro-paper). Thank you
+The source code for my internet magazine, where I share my thoughts and experiences.
 
-## 🚀 Project Structure
+## Project Structure
 
-```bash
+```
 /
 ├── public/
 │   ├── assets/
@@ -18,7 +18,7 @@ Based on [@satnaing](https://github.com/satnaing)'s theme [AstroPaper](https://g
 │   ├── assets/
 │   │   └── socialIcons.ts
 │   ├── components/
-│   ├── content/
+│   ├── data/
 │   │   |  blog/
 │   │   |    └── some-blog-posts.md
 │   │   └── config.ts
@@ -33,7 +33,7 @@ Based on [@satnaing](https://github.com/satnaing)'s theme [AstroPaper](https://g
 
 All blog posts are stored in `src/data/blog` directory.
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Main Framework** - [Astro](https://astro.build/)  
 **Type Checking** - [TypeScript](https://www.typescriptlang.org/)  
@@ -46,7 +46,7 @@ All blog posts are stored in `src/data/blog` directory.
 **Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
 **Linting** - [ESLint](https://eslint.org)
 
-## 👨🏻‍💻 Running Locally
+## Running Locally
 
 You can start using this project locally by running the following command in your desired directory:
 
@@ -60,7 +60,7 @@ pnpm run install
 pnpm run dev
 ```
 
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -75,6 +75,10 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run sync`         | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
 | `pnpm run lint`         | Lint with ESLint                                                                                                                 |
 
-## 📜 License
+## Acknowledgements
+
+This website is based on [@satnaing](https://github.com/satnaing)'s excellent Astro theme called [AstroPaper](https://github.com/satnaing/astro-paper). Thank you!
+
+## License
 
 Licensed under the MIT License, Copyright © 2024
