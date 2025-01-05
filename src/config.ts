@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://nicklasbekkevold.com/",
+  website: "https://nicklasbekkevold.com",
   author: "Nicklas Bekkevold",
-  profile: "https://nicklasbekkevold.com/",
+  profile: "https://nicklasbekkevold.com",
   desc: "Independent internet magazine featuring thoughts and reflections at the intersection of science, technology, and society.",
   title: "nicklasbekkevold.com",
   ogImage: "astropaper-og.jpg",

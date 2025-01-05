@@ -6,6 +6,7 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 import { remarkReadingTime } from "./src/utils/remark-reading-time.mjs";
+import { sitemapCopier } from "./src/utils/sitemap-copier.ts";
 
 import vercel from "@astrojs/vercel";
 
@@ -19,6 +20,7 @@ export default defineConfig({
     }),
     react(),
     sitemap(),
+    sitemapCopier(),
   ],
 
   markdown: {
