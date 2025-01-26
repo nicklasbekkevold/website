@@ -81,4 +81,4 @@ This website is based on [@satnaing](https://github.com/satnaing)'s excellent As
 
 ## License
 
-Licensed under the MIT License, Copyright © 2024
+Licensed under the MIT License, Copyright © 2025
