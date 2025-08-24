@@ -1,6 +1,7 @@
 ---
 author: Sat Naing
 pubDatetime: 2022-12-28T04:59:04.866Z
+modDatetime: 2025-03-12T13:39:20.763Z
 title: Dynamic OG image generation in AstroPaper blog posts
 slug: dynamic-og-image-generation-in-astropaper-blog-posts
 featured: false
@@ -38,16 +39,14 @@ Dynamic OG images will be generated at build time for blog posts that
 
 ## Anatomy of AstroPaper dynamic OG image
 
-Dynamic OG image of AstroPaper includes _the blog post title_, _author name_ and _site title_. Author name and site title will be retrieved via `SITE.author` and `SITE.title` of **"src/config.ts"** file. The title is generated from the blog post frontmatter `title`.  
+Dynamic OG image of AstroPaper includes _the blog post title_, _author name_ and _site title_. Author name and site title will be retrieved via `SITE.author` and `SITE.title` of **"src/config.ts"** file. The title is generated from the blog post frontmatter `title`.
 ![Example Dynamic OG Image link](https://user-images.githubusercontent.com/53733092/209704501-e9c2236a-3f4d-4c67-bab3-025aebd63382.png)
 
 ### Issue Non-Latin Characters
 
 Titles with non-latin characters won't display properly out of the box. To resolve this, we have to replace `fontsConfig` inside `loadGoogleFont.ts` with your preferred font.
 
-```ts
-// file: loadGoogleFont.ts
-
+```ts file=src/utils/loadGoogleFont.ts
 async function loadGoogleFonts(
   text: string
 ): Promise<
@@ -74,11 +73,19 @@ async function loadGoogleFonts(
       style: "normal",
     },
   ];
-  // other codes
+  // ...
 }
 ```
 
 > Check out [this PR](https://github.com/satnaing/astro-paper/pull/318) for more info.
+
+## Trade-off
+
+While this is a nice feature to have, there's a trade-off. Each OG image takes roughly one second to generate. This might not be noticeable at first, but as the number of blog posts grows, you might want to disable this feature. Since every OG image takes time to generate, having many of them will increase the build time linearly.
+
+For example: If one OG image takes one second to generate, then 60 images will take around one minute, and 600 images will take approximately 10 minutes. This can significantly impact build times as your content scales.
+
+Related issue: [#428](https://github.com/satnaing/astro-paper/issues/428)
 
 ## Limitations
 

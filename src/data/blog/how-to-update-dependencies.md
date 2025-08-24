@@ -5,7 +5,7 @@ pubDatetime: 2023-07-20T15:33:05.569Z
 slug: how-to-update-dependencies
 featured: false
 draft: false
-ogImage: /assets/forrest-gump-quote.webp
+ogImage: ../../assets/images/forrest-gump-quote.png
 tags:
   - FAQ
 description: How to update project dependencies and AstroPaper template.
@@ -13,7 +13,7 @@ description: How to update project dependencies and AstroPaper template.
 
 Updating the dependencies of a project can be tedious. However, neglecting to update project dependencies is not a good idea either 😬. In this post, I will share how I usually update my projects, focusing on AstroPaper as an example. Nonetheless, these steps can be applied to other js/node projects as well.
 
-![Forrest Gump Fake Quote](/assets/forrest-gump-quote.webp)
+![Forrest Gump Fake Quote](@/assets/images/forrest-gump-quote.png)
 
 ## Table of contents
 
@@ -65,7 +65,7 @@ In most cases, the files and directories you might not want to override (as you'
 
 If you’re someone who only updates the bare minimum of the template, it should be okay to replace everything with the latest AstroPaper except the above files and directories. It’s like pure Android OS and other vendor-specific OSes like OneUI. The less you modify the base, the less you have to update.
 
-You can manually replace every file one by one, or you can use the magic of git to update everything. I won’t show you the manual replacement process since it is very straightforward. If you’re not interested in that straightfoward and inefficient method, bear with me 🐻.
+You can manually replace every file one by one, or you can use the magic of git to update everything. I won’t show you the manual replacement process since it is very straightforward. If you’re not interested in that straightforward and inefficient method, bear with me 🐻.
 
 ### Updating AstroPaper using Git
 
