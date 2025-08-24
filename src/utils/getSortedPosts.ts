@@ -1,6 +1,6 @@
 import type { CollectionEntry } from "astro:content";
-import postFilter from "./postFilter";
 import getPostsWithReadingTime from "./getPostsWithReadingTime";
+import postFilter from "./postFilter";
 
 const getSortedPosts = async (posts: CollectionEntry<"blog">[]) => {
   const postsWithReadingTime = await getPostsWithReadingTime(posts);

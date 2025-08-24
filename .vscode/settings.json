@@ -5,6 +5,7 @@
         "mdast",
         "resvg",
         "shiki",
+        "shikijs",
         "tseslint"
     ]
 }

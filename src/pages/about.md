@@ -11,7 +11,7 @@ Beyond my professional life, I like to stay active, drown in a well written book
 
 This blog is a space for me to share my thoughts and reflections on the intersection of science, technology, and society. I hope you find my insights interesting and engaging.
 
-![Programmer above the sea of fog](@assets/images/programmer_above_the_sea_of_fog.jpeg)
+![Programmer above the sea of fog](@/assets/images/programmer_above_the_sea_of_fog.jpeg)
 
 ## Tech Stack
 
