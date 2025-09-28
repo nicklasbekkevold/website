@@ -11,8 +11,7 @@ tags:
   - event
   - EHDS
   - AI
-description:
-  Event report from the bi-annual conference on health data and national medical quality registries in Norway. This year in Bergen.
+description: Event report from the bi-annual conference on health data and national medical quality registries in Norway. This year in Bergen.
 ---
 
 When: 23 to 24 September
@@ -35,7 +34,7 @@ Inspired by my former colleague [Mathias Weber](https://www.linkedin.com/in/math
 
 I was very exited for this conference, not because of the interesting presentations on global health, <abbr title="European Health Data Space">EHDS</abbr>, and the use of AI in healthcare. Nor the celebrity speaker list, with names such as miniminister of health [Jan Christian Vestre](https://www.regjeringen.no/en/dep/hod/organisation-and-management-of-the-ministry-of-health-and-care-services/minister-of-health-and-care-services-jan-christian-vestre/id3035364/) and science communicator [Andreas Wahl](https://andreaswahl.no/).
 
-My enthusiasm came from the thought of visiting the historic city of *Bergen*: the second largest city in the kingdom, major trade hub and one of the main Hanseatic cities ("kontor") during the medieval times. The city is infamous for its rainy weather, but, pherhaps, equally famous for its breathtaking nature, including the seven city mountains (I managed to climb two of them during my trip). Not the mention the [scenic train journey](https://www.lonelyplanet.com/articles/europes-best-train-journey) to get there.
+My enthusiasm came from the thought of visiting the historic city of _Bergen_: the second largest city in the kingdom, major trade hub and one of the main Hanseatic cities ("kontor") during the medieval times. The city is infamous for its rainy weather, but, pherhaps, equally famous for its breathtaking nature, including the seven city mountains (I managed to climb two of them during my trip). Not the mention the [scenic train journey](https://www.lonelyplanet.com/articles/europes-best-train-journey) to get there.
 
 ![Kjøbmandsstuen, Bergen](@/assets/images/hanseatic_bergen.jpg)
 
@@ -72,6 +71,7 @@ The conference started out by broadening our view with serious topics such as cr
 Next, two representatives from [the Norwegian Directorate of Health](https://www.helsedirektoratet.no/english/about-the-norwegian-directorate-of-health) presented EHDS in a, story-drived way, following the fictious "Ingrid" on her (not so relaxing) vacation to Italy, highlighting the benefits of both primary and secondary use of data, in what almost felt like a sales pitch for the [European regulation](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en).
 
 Other noteworthy lectures:
+
 - A historian talked about the world's oldest disease registry, founded in Bergen: the leprosy registry.
 - Success story for improved healthcare services in Addis Ababa, Ethiopia, by implementing a surgical registry.
 

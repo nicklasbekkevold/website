@@ -8,8 +8,7 @@ featured: false
 draft: false
 tags:
   - reflections
-description:
-  I share some of my motivations for starting the blog and some future outlooks.
+description: I share some of my motivations for starting the blog and some future outlooks.
 ---
 
 Welcome all! In this post I will share some of my motivations for starting this blog and what my plans are.
