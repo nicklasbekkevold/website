@@ -1,7 +1,7 @@
 ---
 author: Nicklas Bekkevold
-pubDatetime: 2025-09-24T16:22:00Z
-modDatetime: 2025-09-24T16:22:00Z
+modDatetime: 2025-09-28T06:20:00Z
+pubDatetime: 2025-09-28T06:20:00Z
 title: A new blog
 slug: a-new-blog
 featured: false
@@ -29,6 +29,6 @@ Another aspect is, as a developer who builds websites for a living, this is some
 
 ## Why write in English?
 
-Well, as you know …
+Well, as you know … English is sort of the lingua franca for the internet. Especially in my field: computer science.
 
-I would like, however, to write upcoming articles in my native Norwegian, and possible in German. But for now, English.
+I would like, however, to write upcoming articles in my native Norwegian, and possible also in German. But for now, English. Especially, since translation services only get better.
