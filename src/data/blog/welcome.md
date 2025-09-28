@@ -19,16 +19,16 @@ Welcome all! In this post I will share some of my motivations for starting this 
 
 ## Why start a blog in 2025?
 
-The simple answer is: why not? To me, a blog is a place where you can just share your opinions freely. I like the idea that I own my own content, it is not tied to a specific platform, and the best of all: no American company spying on you.
+For me, a blog serves as a platform to freely express personal opinions. I value owning my own content, ensuring it isn't tied to any specific platform, and—perhaps best of all—having the freedom from big tech companies spying on me.
 
-An antithesis to social media, if you will. Albeit, still a digital medium.
+In a way, it's an antithesis to social media, though still a digital medium.
 
-Another aspect is, as a developer who builds websites for a living, this is something I should have under control:
+Another key reason is my background as a developer who builds websites for a living. This is a skill I which I value:
 
-> This is something I should be able to do easily.
+> Creating and managing a blog should be second nature to me.
 
 ## Why write in English?
 
-Well, as you know … English is sort of the lingua franca for the internet. Especially in my field: computer science.
+As many of you know, English functions as the lingua franca of the internet. This is particularly true in my field, computer science.
 
-I would like, however, to write upcoming articles in my native Norwegian, and possible also in German. But for now, English. Especially, since translation services only get better.
+While I have plans to write future articles in my native Norwegian and possibly also in German, the rising quality of translation services should make this less of a problem, still allowing my content to reach a broader audience. But for now, I will write in English.

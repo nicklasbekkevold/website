@@ -28,21 +28,21 @@ Event report from the bi-annual conference on health data and national medical q
 
 ## What is even an event report?
 
-Inspired by my former colleague [Mathias Weber](https://www.linkedin.com/in/mathias-weber-176402166/recent-activity/articles/) which has written an impressive 150 (and counting) of these event reports from the Berlin IT-scene.
+Inspired by my former colleague [Mathias Weber](https://www.linkedin.com/in/mathias-weber-176402166/recent-activity/articles/), who has written an impressive 150 (and counting) event reports from the Berlin IT-scene.
 
 ## Bergen
 
-I was very exited for this conference, not because of the interesting presentations on global health, <abbr title="European Health Data Space">EHDS</abbr>, and the use of AI in healthcare. Nor the celebrity speaker list, with names such as minister of health [Jan Christian Vestre](https://www.regjeringen.no/en/dep/hod/organisation-and-management-of-the-ministry-of-health-and-care-services/minister-of-health-and-care-services-jan-christian-vestre/id3035364/) and science communicator [Andreas Wahl](https://andreaswahl.no/).
+I was very excited for this conference, not just because of the interesting presentations on global health, the <abbr title="European Health Data Space">EHDS</abbr>, and the use of AI in healthcare; nor the celebrity speaker list, with names such as minister of health [Jan Christian Vestre](https://www.regjeringen.no/en/dep/hod/organisation-and-management-of-the-ministry-of-health-and-care-services/minister-of-health-and-care-services-jan-christian-vestre/id3035364/), and science communicator [Andreas Wahl](https://andreaswahl.no/).
 
-My enthusiasm came from the thought of visiting the historic city of _Bergen_: the second largest city in the kingdom, major trade hub and one of the main Hanseatic cities ("kontor") during the medieval times. The city is infamous for its rainy weather, but, perhaps, equally famous for its breathtaking nature, including the seven city mountains (I managed to climb two of them during my trip). Not the mention the [scenic train journey](https://www.lonelyplanet.com/articles/europes-best-train-journey) to get there.
+My enthusiasm came from the thought of visiting the historic city of Bergen: the second-largest city in the kingdom, a major trade hub, and one of the main Hanseatic cities ("kontor") during medieval times. The city is infamous for its rainy weather but equally famous for its breathtaking nature, including the seven city mountains. I managed to climb two of them during my trip. Not to mention the [scenic train journey](https://www.lonelyplanet.com/articles/europes-best-train-journey) to get there.
 
 ![Kjøbmandsstuen, Bergen](@/assets/images/hanseatic_bergen.jpg)
 
-^Notice the homage to the Hanseatic cities of Hamburg and Bremen on the building decoration of this central building, just next to the conference hotel, on the historic "Bryggen" (pier).
+^Notice the homage to the Hanseatic cities of Hamburg and Bremen on the decoration of this central building, just next to the conference hotel, on the historic "Bryggen" (pier).
 
-## Enough of BergeJustn already: what did you learn?
+## Enough of Bergen already: what did you learn?
 
-The conference lasted two whole days, with a varied program, but mostly plenary presentations. Personally, I enjoyed the second day the most because there was a better mix of activity types, which allowed for more spontaneous networking. The first day lacked this completley, except for the breaks and the somewhat pricy dinner, which you had to pay extra for.
+The conference lasted two whole days, with a varied program, but mostly plenary presentations. Personally, I enjoyed the second day the most, because there was a better mix of activity types, which allowed for more spontaneous networking. The first day lacked this completely, except for the breaks and the somewhat pricy dinner, which you had to pay extra for.
 
 Topics covered during day 1 were:
 
@@ -68,20 +68,20 @@ After having explored Bergen for a few days, I was eager to meet up with colleag
 
 The conference started out by broadening our view with serious topics such as crisis handling and defense. I think everyone enjoyed this part, as it was varied, current and engaging.
 
-Next, two representatives from [the Norwegian Directorate of Health](https://www.helsedirektoratet.no/english/about-the-norwegian-directorate-of-health) presented EHDS in a, story-drived way, following the fictious "Ingrid" on her (not so relaxing) vacation to Italy, highlighting the benefits of both primary and secondary use of data, in what almost felt like a sales pitch for the [European regulation](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en).
+Next, two representatives from [the Norwegian Directorate of Health](https://www.helsedirektoratet.no/english/about-the-norwegian-directorate-of-health) presented EHDS in a, story-driven way, following the fictitious "Ingrid" on her (not so relaxing) vacation to Italy, highlighting the benefits of both primary and secondary use of data, in what almost felt like a sales pitch for the [European regulation](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en).
 
 Other noteworthy lectures:
 
 - A historian talked about the world's oldest disease registry, founded in Bergen: the leprosy registry.
 - Success story for improved healthcare services in Addis Ababa, Ethiopia, by implementing a surgical registry.
 
-Lastly, some analysis on equity of treatment for patient groups were shared, in particular: immigrants and wommen.
+Lastly, some analysis on equity of treatment for patient groups were shared, in particular: immigrants and women.
 
 ### The last day
 
-A mix of interesting talks on "what should hospitals do less of" initiated the final day of the conference. Among them was a lecture by my brialliant colleuge [Solvei Hofvind](https://www.fhi.no/om/organisasjon/mammografi/solveig-sand-hanssen-hofvind/) on the use of AI in radiology for breast cancer screening. This was perhaps my favorite, as she was able to convey so much wisdom, in such a short time and brought us into "her world"
+A mix of interesting talks on "What Should Hospitals Do Less Of" initiated the final day of the conference. Among them was a lecture by my brilliant colleague, [Solveig Hofvind](https://www.fhi.no/om/organisasjon/mammografi/solveig-sand-hanssen-hofvind/), on the use of AI in radiology for breast cancer screening. This was perhaps my favorite, as she was able to convey immense wisdom in such a short time and truly brought us into "her world."
 
-After one hour of listening, we got the chance to move around and study the posters. This opened up for spontaneous professional discussions and networking, which was appreciated. More of this!
+After one hour of listening, we had the chance to move around and study the posters. This opened up opportunities for spontaneous professional discussions and networking, which was greatly appreciated. More of this, please!
 
 I wasn't able to split myself into three and attend all parallel sessions after the poster walk & talk, so I decided on session 2, as it was closest to what I work with at the Norwegian cancer registry.
 
